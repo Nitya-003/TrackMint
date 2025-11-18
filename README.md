@@ -1,6 +1,5 @@
 # TrackMint
 
-## Elevator Pitch
 TrackMint is a lightweight Java application demonstrating graph-based route optimization using Dijkstra's algorithm. It models a network of nodes (e.g., cities) with weighted edges (e.g., distances) and computes the shortest paths from a source node, outputting both distances and step-by-step routes. Perfect for learning DSA concepts or as a foundation for more advanced pathfinding tools.
 
 ## Features
